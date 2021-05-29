@@ -1,5 +1,4 @@
 # MultipletableViewInSingleVc
 
 
-
-![5bf333-2](https://user-images.githubusercontent.com/65831267/120079373-1b152300-c0d1-11eb-895a-fd1dfbdd07f2.gif)
+https://user-images.githubusercontent.com/65831267/120079703-c07cc680-c0d2-11eb-946e-58908b038b8f.mp4
