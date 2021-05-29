@@ -64,16 +64,40 @@
 			children = (
 				B09883902662561100730A8E /* AppDelegate.swift */,
 				B09883922662561100730A8E /* SceneDelegate.swift */,
-				B09883942662561100730A8E /* ViewController.swift */,
-				B09883AA266263C500730A8E /* DetailViewController.swift */,
-				B09883A8266259E300730A8E /* DataModel.swift */,
-				B09883962662561100730A8E /* Main.storyboard */,
+				B0A3241F2662A781003DAA07 /* model */,
+				B0A324202662A786003DAA07 /* view */,
+				B0A3241E2662A779003DAA07 /* controller */,
 				B09883A62662584500730A8E /* TableViewCell.swift */,
 				B09883992662561200730A8E /* Assets.xcassets */,
 				B098839B2662561200730A8E /* LaunchScreen.storyboard */,
 				B098839E2662561200730A8E /* Info.plist */,
 			);
 			path = MultipletableViewInSingleVc;
+			sourceTree = "<group>";
+		};
+		B0A3241E2662A779003DAA07 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				B09883942662561100730A8E /* ViewController.swift */,
+				B09883AA266263C500730A8E /* DetailViewController.swift */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		B0A3241F2662A781003DAA07 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				B09883A8266259E300730A8E /* DataModel.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		B0A324202662A786003DAA07 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				B09883962662561100730A8E /* Main.storyboard */,
+			);
+			path = view;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
